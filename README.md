@@ -7,18 +7,18 @@ Erica Synths will not provide any support for these projects, please, refer to f
  
 Open-source projects are:
 
-* [Bassline](https://www.ericasynths.lv/shop/diy/diy-kits-1/diy-bassline/) : all in one synth voice for acid basslines and drones.
-* [BBD delay/flanger](https://www.ericasynths.lv/shop/diy/diy-kits-1/diy-bbd-delayflanger/) : all analogue effects unit based on V3205 BBD IC.
-* [Delay](https://www.ericasynths.lv/shop/diy/diy-kits-1/diy-delay/) : tape and digital delay unit with tap tempo, tempo sync, reverse, hold and add functions.
-* [Dual VCA](https://www.ericasynths.lv/shop/diy/diy-kits-1/diy-polivoks-vca-ii/) : Polivoks architecture inspired dual VCA, rare Russian differential opamps are now replaced with AS3360.
-* [Envelope](https://www.ericasynths.lv/shop/diy/diy-kits-1/diy-polivoks-eg-ii/) : recreation of Polivoks envelope generator with loop and end of attack functions.
-* [MIDI-CV](https://www.ericasynths.lv/shop/diy/diy-kits-1/diy-midi-cv-ii/) : Polivoks functionality inspired dual MIDI-CV converter with glide function.
-* [Mixer](https://www.ericasynths.lv/shop/diy/diy-kits-1/diy-mixer-ii/) : simple 3 chanel audio mixer.
-* [Modulator](https://www.ericasynths.lv/shop/diy/diy-kits-1/diy-modulator-ii/) : Polivoks functionality inspired LFO, noise and S&H module.
-* [Output](https://www.ericasynths.lv/shop/diy/diy-kits-1/diy-output-ii/) : Output module with headphone amplifier.
-* [Polivoks VCF](https://www.ericasynths.lv/shop/diy/diy-kits-1/diy-polivoks-vcf-ii/) : authentic recreation of the Polivoks VCF.
-* [Swamp](https://www.ericasynths.lv/shop/diy/diy-kits-1/diy-swamp/) : our take of Wogglebug module with lots of unique extras.
-* [VCO3](https://www.ericasynths.lv/shop/diy/diy-kits-1/diy-polivoks-vco-ii/) : Polivoks inspired VCO with nice extra – VCO Sync input.
+* [Bassline](https://www.ericasynths.lv/shop/discontinued-products/diy-bassline/) : all in one synth voice for acid basslines and drones.
+* [BBD delay/flanger](https://www.ericasynths.lv/shop/discontinued-products/diy-bbd-delayflanger/) : all analogue effects unit based on V3205 BBD IC.
+* [Delay](https://www.ericasynths.lv/shop/discontinued-products/diy-delay/) : tape and digital delay unit with tap tempo, tempo sync, reverse, hold and add functions.
+* [Dual VCA](https://www.ericasynths.lv/shop/discontinued-products/diy-polivoks-vca-ii/) : Polivoks architecture inspired dual VCA, rare Russian differential opamps are now replaced with AS3360.
+* [Envelope](https://www.ericasynths.lv/shop/discontinued-products/diy-polivoks-eg-ii/) : recreation of Polivoks envelope generator with loop and end of attack functions.
+* [MIDI-CV](https://www.ericasynths.lv/shop/discontinued-products/diy-midi-cv-ii/) : Polivoks functionality inspired dual MIDI-CV converter with glide function.
+* [Mixer](https://www.ericasynths.lv/shop/discontinued-products/diy-mixer-ii/) : simple 3 chanel audio mixer.
+* [Modulator](https://www.ericasynths.lv/shop/discontinued-products/diy-modulator-ii/) : Polivoks functionality inspired LFO, noise and S&H module.
+* [Output](https://www.ericasynths.lv/shop/discontinued-products/diy-output-ii/) : Output module with headphone amplifier.
+* [Polivoks VCF](https://www.ericasynths.lv/shop/discontinued-products/diy-polivoks-vcf-ii/) : authentic recreation of the Polivoks VCF.
+* [Swamp](https://www.ericasynths.lv/shop/discontinued-products/diy-swamp/) : our take of Wogglebug module with lots of unique extras.
+* [VCO3](https://www.ericasynths.lv/shop/discontinued-products/diy-polivoks-vco-ii/) : Polivoks inspired VCO with nice extra – VCO Sync input.
 
 License
 =======
